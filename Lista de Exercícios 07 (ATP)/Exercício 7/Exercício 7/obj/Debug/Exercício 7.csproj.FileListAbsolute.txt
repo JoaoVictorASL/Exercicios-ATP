@@ -1,0 +1,7 @@
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 7\Exercício 7\bin\Debug\Exercício 7.exe.config
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 7\Exercício 7\bin\Debug\Exercício 7.exe
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 7\Exercício 7\bin\Debug\Exercício 7.pdb
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 7\Exercício 7\obj\Debug\Exercício 7.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 7\Exercício 7\obj\Debug\Exercício 7.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 7\Exercício 7\obj\Debug\Exercício 7.exe
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 7\Exercício 7\obj\Debug\Exercício 7.pdb

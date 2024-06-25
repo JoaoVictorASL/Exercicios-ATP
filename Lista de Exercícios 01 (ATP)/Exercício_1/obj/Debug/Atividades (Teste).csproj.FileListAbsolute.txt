@@ -1,0 +1,7 @@
+C:\Users\Micro\source\repos\Atividades (Teste)\Atividades (Teste)\bin\Debug\Atividades (Teste).exe.config
+C:\Users\Micro\source\repos\Atividades (Teste)\Atividades (Teste)\bin\Debug\Atividades (Teste).exe
+C:\Users\Micro\source\repos\Atividades (Teste)\Atividades (Teste)\bin\Debug\Atividades (Teste).pdb
+C:\Users\Micro\source\repos\Atividades (Teste)\Atividades (Teste)\obj\Debug\Atividades (Teste).csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\Atividades (Teste)\Atividades (Teste)\obj\Debug\Atividades (Teste).csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Atividades (Teste)\Atividades (Teste)\obj\Debug\Atividades (Teste).exe
+C:\Users\Micro\source\repos\Atividades (Teste)\Atividades (Teste)\obj\Debug\Atividades (Teste).pdb

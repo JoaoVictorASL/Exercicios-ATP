@@ -1,0 +1,7 @@
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de exercícios 02\Lista de Exercícios 02 (ATP)\Exercício 11\Exercício 11\bin\Debug\Exercício 11.exe.config
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de exercícios 02\Lista de Exercícios 02 (ATP)\Exercício 11\Exercício 11\bin\Debug\Exercício 11.exe
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de exercícios 02\Lista de Exercícios 02 (ATP)\Exercício 11\Exercício 11\bin\Debug\Exercício 11.pdb
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de exercícios 02\Lista de Exercícios 02 (ATP)\Exercício 11\Exercício 11\obj\Debug\Exercício 11.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de exercícios 02\Lista de Exercícios 02 (ATP)\Exercício 11\Exercício 11\obj\Debug\Exercício 11.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de exercícios 02\Lista de Exercícios 02 (ATP)\Exercício 11\Exercício 11\obj\Debug\Exercício 11.exe
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de exercícios 02\Lista de Exercícios 02 (ATP)\Exercício 11\Exercício 11\obj\Debug\Exercício 11.pdb

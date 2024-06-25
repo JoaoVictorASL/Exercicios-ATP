@@ -1,0 +1,7 @@
+C:\Users\Micro\source\repos\Exercício 3\Exercício 3\bin\Debug\Exercício 3.exe.config
+C:\Users\Micro\source\repos\Exercício 3\Exercício 3\bin\Debug\Exercício 3.exe
+C:\Users\Micro\source\repos\Exercício 3\Exercício 3\bin\Debug\Exercício 3.pdb
+C:\Users\Micro\source\repos\Exercício 3\Exercício 3\obj\Debug\Exercício 3.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\Exercício 3\Exercício 3\obj\Debug\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Exercício 3\Exercício 3\obj\Debug\Exercício 3.exe
+C:\Users\Micro\source\repos\Exercício 3\Exercício 3\obj\Debug\Exercício 3.pdb

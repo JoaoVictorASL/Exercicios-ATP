@@ -1,0 +1,7 @@
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 12\Exercício 12\bin\Debug\Exercício 12.exe.config
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 12\Exercício 12\bin\Debug\Exercício 12.exe
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 12\Exercício 12\bin\Debug\Exercício 12.pdb
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 12\Exercício 12\obj\Debug\Exercício 12.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 12\Exercício 12\obj\Debug\Exercício 12.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 12\Exercício 12\obj\Debug\Exercício 12.exe
+C:\Users\Micro\Desktop\Puc Minas\Atividades PUC\Atp\Lista de Exercícios 07 (ATP)\Exercício 12\Exercício 12\obj\Debug\Exercício 12.pdb

@@ -1,0 +1,7 @@
+C:\Users\Micro\source\repos\Exercício_2\Exercício_2\bin\Debug\Exercício_2.exe.config
+C:\Users\Micro\source\repos\Exercício_2\Exercício_2\bin\Debug\Exercício_2.exe
+C:\Users\Micro\source\repos\Exercício_2\Exercício_2\bin\Debug\Exercício_2.pdb
+C:\Users\Micro\source\repos\Exercício_2\Exercício_2\obj\Debug\Exercício_2.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\Exercício_2\Exercício_2\obj\Debug\Exercício_2.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\Exercício_2\Exercício_2\obj\Debug\Exercício_2.exe
+C:\Users\Micro\source\repos\Exercício_2\Exercício_2\obj\Debug\Exercício_2.pdb

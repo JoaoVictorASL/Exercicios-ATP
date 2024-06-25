@@ -1,0 +1,7 @@
+C:\Users\1528995\source\repos\Lista de exercícios 02\Exercício 2\bin\Debug\Exercício 2.exe.config
+C:\Users\1528995\source\repos\Lista de exercícios 02\Exercício 2\bin\Debug\Exercício 2.exe
+C:\Users\1528995\source\repos\Lista de exercícios 02\Exercício 2\bin\Debug\Exercício 2.pdb
+C:\Users\1528995\source\repos\Lista de exercícios 02\Exercício 2\obj\Debug\Exercício 2.csproj.CoreCompileInputs.cache
+C:\Users\1528995\source\repos\Lista de exercícios 02\Exercício 2\obj\Debug\Exercício 2.exe
+C:\Users\1528995\source\repos\Lista de exercícios 02\Exercício 2\obj\Debug\Exercício 2.pdb
+C:\Users\1528995\source\repos\Lista de exercícios 02\Exercício 2\obj\Debug\Exercício 2.csproj.AssemblyReference.cache
