@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\bin\Debug\Exercício 2.exe.config
 C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\bin\Debug\Exercício 2.exe
 C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\bin\Debug\Exercício 2.pdb
 C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\obj\Debug\Exercício 2.csproj.CoreCompileInputs.cache
 C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\obj\Debug\Exercício 2.exe
 C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\obj\Debug\Exercício 2.pdb
+=======
+C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\bin\Debug\Exercício 2.exe.config
+C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\bin\Debug\Exercício 2.exe
+C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\bin\Debug\Exercício 2.pdb
+C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\obj\Debug\Exercício 2.csproj.CoreCompileInputs.cache
+C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\obj\Debug\Exercício 2.exe
+C:\Users\1528995\source\repos\Lista de Exercícios 10 (ATP)\Exercício 2\obj\Debug\Exercício 2.pdb
+>>>>>>> a7f6e8a64b8880b072dc6346c4c989f763a61dcf
